@@ -1,0 +1,10 @@
+var n="yasasın turkmenıstan"
+function a(metin){
+var m="";
+for(i=0;i<metin.length;i++){
+   m+=metin[i];
+    alert(m);
+    
+}
+}
+a(n);
